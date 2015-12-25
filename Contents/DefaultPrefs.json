@@ -1,0 +1,14 @@
+[
+	{
+		"id": "username",
+		"label": "TYT Username",
+		"type": "text",
+		"default": ""
+	},
+	{
+		"id": "password",
+		"label": "TYT Password",
+		"type": "text",
+		"default": ""
+	}
+]
